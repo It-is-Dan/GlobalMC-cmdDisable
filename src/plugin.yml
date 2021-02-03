@@ -1,0 +1,8 @@
+main: me.RaceAgainstTime.GlobalMCcmdDisable.Main
+name: GlobalMC-CmdDisable
+version: 1.1
+api-version: 1.15
+author: RaceAgainstTime
+
+commands:
+  commandblock:

@@ -1,0 +1,21 @@
+# SSCommandDisable by RaceAgainstTime
+# https://github.com/RaceAgainstTime
+# Made for Simply Survival
+
+command-deny-message: '&cYou dont have permission to use that command!'
+
+disabled-commands:
+  - pl
+  - plugins
+  - ver
+  - version
+  - "?"
+  - about
+  - icanhasbukkit
+  - bukkit:ver
+  - bukkit:plugins
+  - bukkit:version
+  - bukkit:help
+  - bukkit:about
+  - bukkit:?
+  - bukkit:pl
