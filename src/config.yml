@@ -1,7 +1,6 @@
-# SSCommandDisable by RaceAgainstTime
-# https://github.com/RaceAgainstTime
-# Made for Simply Survival
-
+# GlobalMC-cmdDisable by RaceAgainstTime
+# https://github.com/It-is-Dan
+# Made for GlobalMC
 command-deny-message: '&cYou dont have permission to use that command!'
 
 disabled-commands:
